@@ -7,23 +7,30 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="ice_pbru.duangsang.junamon.junamon02.MainActivity">
+    tools:context="ice_pbru.duangsang.junamon.junamon02.MainActivity"
+    android:background="@drawable/a23">
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="New Text"
+        android:text="อุปกรณ์คอมพิวเตอร์"
         android:id="@+id/textView"
         android:layout_alignParentTop="true"
         android:gravity="center_horizontal"
-        android:textSize="40dp" />
+        android:textSize="50dp"
+        android:textStyle="bold"
+        android:textColor="#a6213b"
+        android:background="#c8c4c8c8" />
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="New Button"
+        android:text="ABOUT ME"
         android:id="@+id/button"
-        android:layout_alignParentBottom="true" />
+        android:layout_alignParentBottom="true"
+        android:textSize="30dp"
+        android:textColor="#a6213b"
+        android:background="#c8c4c8c8" />
 
     <ListView
         android:layout_width="wrap_content"
