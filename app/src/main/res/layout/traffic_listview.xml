@@ -24,7 +24,8 @@
             android:layout_height="wrap_content"
             android:text="New Text"
             android:id="@+id/textView2"
-            android:textSize="40dp" />
+            android:textSize="40dp"
+            android:textColor="#a6213b" />
 
         <TextView
             android:layout_width="wrap_content"

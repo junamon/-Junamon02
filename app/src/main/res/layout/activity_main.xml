@@ -30,7 +30,8 @@
         android:layout_alignParentBottom="true"
         android:textSize="30dp"
         android:textColor="#a6213b"
-        android:background="#c8c4c8c8" />
+        android:background="#c8c4c8c8"
+        android:textStyle="bold" />
 
     <ListView
         android:layout_width="wrap_content"
