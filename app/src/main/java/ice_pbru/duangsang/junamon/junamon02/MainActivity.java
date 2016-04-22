@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
                                R.drawable.a16, R.drawable.a17, R.drawable.a18, R.drawable.a19, R.drawable.a20};
         final String[] titleStrings = new String[20];
         titleStrings[0] = "เคส";
-        titleStrings[1] = "ซ๊พียู";
+        titleStrings[1] = "ซีพียู";
         titleStrings[2] = "แป้นพิมพ์";
         titleStrings[3] = "เมาส์";
         titleStrings[4] = "แรม";
